@@ -1,5 +1,5 @@
 """
-Este programa está basado en los siguientes vídeo tutoriales:
+Este programa está basado en el siguiente vídeo tutorial:
     Curso Python. Interfaces gráficas III. Vídeo 44
 
 Autor: Magh(Emgicraft)
