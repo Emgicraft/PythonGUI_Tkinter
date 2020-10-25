@@ -1,5 +1,5 @@
 """
-Este programa está basado en el siguiente vídeo tutorial:
+Este programa está basado en los siguientes vídeos tutoriales:
     Curso Python. Interfaces gráficas IV. Vídeo 45
     Curso Python. Interfaces gráficas V. Vídeo 46
 
